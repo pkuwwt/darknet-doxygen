@@ -1,0 +1,9 @@
+<map id="resize_min" name="resize_min">
+<area shape="rect" id="node2" href="$d3/d10/image_8c.html#a583d43a007a97bb92fcbac12b8394c72" title="resize_image" alt="" coords="139,104,240,129"/>
+<area shape="rect" id="node3" href="$d3/d10/image_8c.html#a0f7cf32ab3f9dfa21ac055a467c7c1fb" title="add_pixel" alt="" coords="297,5,376,31"/>
+<area shape="rect" id="node4" href="$d3/d10/image_8c.html#a1b35e408b961d58f7e29ec146be91160" title="free_image" alt="" coords="293,55,381,80"/>
+<area shape="rect" id="node5" href="$d3/d10/image_8c.html#ab2ddb4ea0bc935f26ce71a731a3241d9" title="get_pixel" alt="" coords="299,104,374,129"/>
+<area shape="rect" id="node6" href="$d3/d10/image_8c.html#a726c30d7f0779c46f9ba5b8a3c2f94a1" title="make_image" alt="" coords="288,153,385,179"/>
+<area shape="rect" id="node8" href="$d3/d10/image_8c.html#a566c2d016eb920d2fee7d3bb055a720b" title="set_pixel" alt="" coords="300,203,374,228"/>
+<area shape="rect" id="node7" href="$d3/d10/image_8c.html#a28bb9f835989b2f7e908386421c52837" title="make_empty_image" alt="" coords="433,153,575,179"/>
+</map>

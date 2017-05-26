@@ -1,0 +1,11 @@
+<map id="concat_datas" name="concat_datas">
+<area shape="rect" id="node2" href="$de/da9/data_8c.html#acaa01523478e21693a252ffd0851dff6" title="load_threads" alt="" coords="154,55,252,80"/>
+<area shape="rect" id="node3" href="$d2/dbd/data_8h.html#a1ebf184d64b6d068463176b30445e90f" title="load_data" alt="" coords="300,55,380,80"/>
+<area shape="rect" id="node4" href="$d0/db9/classifier_8c.html#ad875e8ecf86a386ce16c7142484f3efb" title="train_classifier" alt="" coords="431,5,537,31"/>
+<area shape="rect" id="node7" href="$df/d09/detector_8c.html#ae007089ceccb49a69ffa696a4f8dd78a" title="train_detector" alt="" coords="432,55,535,80"/>
+<area shape="rect" id="node9" href="$dd/d39/regressor_8c.html#aa4426c2ef23d84bceb3b5a0e6465ad25" title="train_regressor" alt="" coords="428,104,539,129"/>
+<area shape="rect" id="node5" href="$dd/df8/darknet_8c.html#a08cb29ba2c4674431352eff4e6274b56" title="run_classifier" alt="" coords="590,5,689,31"/>
+<area shape="rect" id="node6" href="$dd/df8/darknet_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="740,55,790,80"/>
+<area shape="rect" id="node8" href="$df/d09/detector_8c.html#a677c1747fd7a58c7f7da3314af5d6120" title="run_detector" alt="" coords="591,55,688,80"/>
+<area shape="rect" id="node10" href="$dd/d39/regressor_8c.html#aa80afdae21d8e85cfa1ead4aea5e4467" title="run_regressor" alt="" coords="587,104,692,129"/>
+</map>

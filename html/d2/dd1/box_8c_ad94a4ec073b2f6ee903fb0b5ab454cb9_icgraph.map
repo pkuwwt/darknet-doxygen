@@ -1,0 +1,7 @@
+<map id="dintersect" name="dintersect">
+<area shape="rect" id="node2" href="$dc/d19/box_8h.html#a15facf6a91a4b408bb26ad32d0413673" title="diou" alt="" coords="310,5,357,31"/>
+<area shape="rect" id="node4" href="$d2/dd1/box_8c.html#ac771494b82a6acf3d931e2036f78f1a1" title="dunion" alt="" coords="156,56,217,81"/>
+<area shape="rect" id="node6" href="$d2/dd1/box_8c.html#a1ddd84257551f7fd38df886550e67359" title="test_dintersect" alt="" coords="132,105,241,131"/>
+<area shape="rect" id="node3" href="$d2/dd1/box_8c.html#a61a6530aed2c56cc5917c66260b306bd" title="test_box" alt="" coords="427,55,499,80"/>
+<area shape="rect" id="node5" href="$d2/dd1/box_8c.html#ad9de7c64851fda7bea43a7aabc1e0c96" title="test_dunion" alt="" coords="289,55,379,80"/>
+</map>

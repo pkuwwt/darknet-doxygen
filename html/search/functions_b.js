@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['network_5faccuracies',['network_accuracies',['../d6/d6e/network_8c.html#a368f834b74f7dca07e9dc977491b8e07',1,'network_accuracies(network net, data d, int n):&#160;network.c'],['../d9/d94/network_8h.html#a368f834b74f7dca07e9dc977491b8e07',1,'network_accuracies(network net, data d, int n):&#160;network.c']]],
+  ['network_5faccuracy',['network_accuracy',['../d6/d6e/network_8c.html#ac046932b096b7f11a444efdb93ed920d',1,'network_accuracy(network net, data d):&#160;network.c'],['../d9/d94/network_8h.html#ac046932b096b7f11a444efdb93ed920d',1,'network_accuracy(network net, data d):&#160;network.c']]],
+  ['network_5faccuracy_5fmulti',['network_accuracy_multi',['../d6/d6e/network_8c.html#aaa77e8c97a6c4963b95512f377725e0e',1,'network_accuracy_multi(network net, data d, int n):&#160;network.c'],['../d9/d94/network_8h.html#aaa77e8c97a6c4963b95512f377725e0e',1,'network_accuracy_multi(network net, data d, int n):&#160;network.c']]],
+  ['network_5finputs',['network_inputs',['../d6/d6e/network_8c.html#a8edae7388967eaa7656b6d6d22e5966e',1,'network.c']]],
+  ['network_5foutput',['network_output',['../d6/d6e/network_8c.html#a026ff027f7efa7b945ae0b805aebe2b6',1,'network.c']]],
+  ['network_5foutput_5flayer',['network_output_layer',['../d6/d6e/network_8c.html#a579b5bc625199a255a5755d02c64c707',1,'network.c']]],
+  ['network_5foutputs',['network_outputs',['../d6/d6e/network_8c.html#a1a644105dd091424b372c490292bfe27',1,'network.c']]],
+  ['network_5fpredict',['network_predict',['../d6/d6e/network_8c.html#a40ea1072011345fcf25951b4a5d429a6',1,'network_predict(network net, float *input):&#160;network.c'],['../d9/d94/network_8h.html#a40ea1072011345fcf25951b4a5d429a6',1,'network_predict(network net, float *input):&#160;network.c']]],
+  ['network_5fpredict_5fdata',['network_predict_data',['../d6/d6e/network_8c.html#aad8d8b4979ad81ba5a61b4f3d2e39fc9',1,'network_predict_data(network net, data test):&#160;network.c'],['../d9/d94/network_8h.html#aad8d8b4979ad81ba5a61b4f3d2e39fc9',1,'network_predict_data(network net, data test):&#160;network.c']]],
+  ['network_5fpredict_5fdata_5fmulti',['network_predict_data_multi',['../d6/d6e/network_8c.html#a74ce5c6fc19f5491a674543a43c32d13',1,'network.c']]],
+  ['nms_5fcomparator',['nms_comparator',['../d2/dd1/box_8c.html#a67617304f07b28a123702a7f7b133e28',1,'box.c']]],
+  ['normalize_5farray',['normalize_array',['../d3/d91/utils_8c.html#af0d493fdef09c062d7c28c10401beed0',1,'normalize_array(float *a, int n):&#160;utils.c'],['../d5/d60/utils_8h.html#af0d493fdef09c062d7c28c10401beed0',1,'normalize_array(float *a, int n):&#160;utils.c']]],
+  ['normalize_5fcpu',['normalize_cpu',['../dc/d50/blas_8c.html#a0cd979e9fd13f2ef6e56c6aa50c9a92c',1,'normalize_cpu(float *x, float *mean, float *variance, int batch, int filters, int spatial):&#160;blas.c'],['../d8/df1/blas_8h.html#a0cd979e9fd13f2ef6e56c6aa50c9a92c',1,'normalize_cpu(float *x, float *mean, float *variance, int batch, int filters, int spatial):&#160;blas.c']]],
+  ['normalize_5fdata_5frows',['normalize_data_rows',['../de/da9/data_8c.html#a8bb2e4f18bee940f1b3e76ada4bf7e09',1,'normalize_data_rows(data d):&#160;data.c'],['../d2/dbd/data_8h.html#a8bb2e4f18bee940f1b3e76ada4bf7e09',1,'normalize_data_rows(data d):&#160;data.c']]],
+  ['normalize_5fdelta_5fcpu',['normalize_delta_cpu',['../d9/d8a/batchnorm__layer_8c.html#a85baa02a320f2f8e6939d775c38b357c',1,'normalize_delta_cpu(float *x, float *mean, float *variance, float *mean_delta, float *variance_delta, int batch, int filters, int spatial, float *delta):&#160;batchnorm_layer.c'],['../d8/df1/blas_8h.html#a85baa02a320f2f8e6939d775c38b357c',1,'normalize_delta_cpu(float *x, float *mean, float *variance, float *mean_delta, float *variance_delta, int batch, int filters, int spatial, float *delta):&#160;batchnorm_layer.c']]],
+  ['normalize_5fimage',['normalize_image',['../d3/d10/image_8c.html#af356da76473c9b9cfc55a5f93960e967',1,'normalize_image(image p):&#160;image.c'],['../d5/db2/image_8h.html#af356da76473c9b9cfc55a5f93960e967',1,'normalize_image(image p):&#160;image.c']]],
+  ['normalize_5fimage2',['normalize_image2',['../d3/d10/image_8c.html#ad3bac931edab2f13eda40f7f5dd18e38',1,'image.c']]],
+  ['normalize_5flayer',['normalize_layer',['../dd/df8/darknet_8c.html#a71be3d176e3af144125a308286d80fdc',1,'darknet.c']]],
+  ['normalize_5fnet',['normalize_net',['../dd/df8/darknet_8c.html#a6a824943f20fa1121776a2a4fd6f1b03',1,'darknet.c']]]
+];

@@ -1,0 +1,17 @@
+<map id="art.c" name="art.c">
+<area shape="rect" id="node2" href="$d9/d94/network_8h.html" title="network.h" alt="" coords="304,152,383,177"/>
+<area shape="rect" id="node19" href="$d5/d60/utils_8h.html" title="utils.h" alt="" coords="620,225,676,251"/>
+<area shape="rect" id="node21" href="$d5/d36/parser_8h.html" title="parser.h" alt="" coords="442,79,512,104"/>
+<area shape="rect" id="node22" href="$d1/dc0/option__list_8h.html" title="option_list.h" alt="" coords="485,152,578,177"/>
+<area shape="rect" id="node23" href="$d8/df1/blas_8h.html" title="blas.h" alt="" coords="653,79,710,104"/>
+<area shape="rect" id="node24" href="$d9/d85/classifier_8h.html" title="classifier.h" alt="" coords="734,79,818,104"/>
+<area shape="rect" id="node3" href="$d5/db2/image_8h.html" title="image.h" alt="" coords="299,299,367,324"/>
+<area shape="rect" id="node10" href="$d3/d3b/layer_8h.html" title="layer.h" alt="" coords="141,225,202,251"/>
+<area shape="rect" id="node14" href="$d3/d09/tree_8h.html" title="tree.h" alt="" coords="219,299,274,324"/>
+<area shape="rect" id="node15" href="$d2/dbd/data_8h.html" title="data.h" alt="" coords="387,225,445,251"/>
+<area shape="rect" id="node9" href="$dc/d19/box_8h.html" title="box.h" alt="" coords="306,372,360,397"/>
+<area shape="rect" id="node11" href="$de/d92/activations_8h.html" title="activations.h" alt="" coords="99,299,194,324"/>
+<area shape="rect" id="node12" href="$dc/d57/cuda_8h.html" title="cuda.h" alt="" coords="45,372,106,397"/>
+<area shape="rect" id="node17" href="$dd/df4/matrix_8h.html" title="matrix.h" alt="" coords="493,299,562,324"/>
+<area shape="rect" id="node18" href="$da/d23/list_8h.html" title="list.h" alt="" coords="586,299,635,324"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="draw_detections" name="draw_detections">
+<area shape="rect" id="node2" href="$d9/d90/coco_8c.html#a3750d7559afe9fbdcc98dfb5383275a7" title="test_coco" alt="" coords="182,13,260,39"/>
+<area shape="rect" id="node5" href="$df/d09/detector_8c.html#ad29ded4bbd1d823ecf9a61135e0710cb" title="test_detector" alt="" coords="172,69,270,95"/>
+<area shape="rect" id="node7" href="$d5/d37/yolo_8c.html#ac1d1d478258afdb0266722f4a8571587" title="test_yolo" alt="" coords="184,131,258,156"/>
+<area shape="rect" id="node3" href="$dd/df8/darknet_8c.html#a9a2e98f86cd2b185650f4ec039d38b03" title="run_coco" alt="" coords="328,5,404,31"/>
+<area shape="rect" id="node4" href="$dd/df8/darknet_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="462,81,513,107"/>
+<area shape="rect" id="node6" href="$df/d09/detector_8c.html#a677c1747fd7a58c7f7da3314af5d6120" title="run_detector" alt="" coords="318,107,414,132"/>
+<area shape="rect" id="node8" href="$d5/d37/yolo_8c.html#ae2af4814947b728e7cfafec8c446050e" title="run_yolo" alt="" coords="330,156,403,181"/>
+</map>

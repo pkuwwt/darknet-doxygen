@@ -1,0 +1,8 @@
+<map id="forward_normalization_layer" name="forward_normalization_layer">
+<area shape="rect" id="node2" href="$dc/d50/blas_8c.html#a1af2064b6d091c8bf5565327745534fc" title="axpy_cpu" alt="" coords="208,5,286,31"/>
+<area shape="rect" id="node3" href="$dc/d50/blas_8c.html#aca992f6ed5cd6b7abca80bca89df397f" title="const_cpu" alt="" coords="206,55,288,80"/>
+<area shape="rect" id="node4" href="$dc/d50/blas_8c.html#a22f6b03dd54e2d4b249e53a0ca14434c" title="copy_cpu" alt="" coords="208,104,286,129"/>
+<area shape="rect" id="node5" href="$dc/d50/blas_8c.html#a265d9895cb0bd21d1e87aa1285f08914" title="mul_cpu" alt="" coords="211,153,283,179"/>
+<area shape="rect" id="node6" href="$dc/d50/blas_8c.html#a16c351b80490408aa433f16fa6e5bf40" title="pow_cpu" alt="" coords="210,203,284,228"/>
+<area shape="rect" id="node7" href="$dc/d50/blas_8c.html#a34c9f6d7710be70c85c343b9840981d8" title="scal_cpu" alt="" coords="210,252,284,277"/>
+</map>

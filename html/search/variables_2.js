@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['c',['c',['../de/d68/structimage.html#aa67d2491c4d17dd240453d69dfc99482',1,'image::c()'],['../d4/db8/structlayer.html#a6d10d2818541049ff11e94b257077a2d',1,'layer::c()'],['../de/d45/structnetwork.html#a05014921b926874b8a362aa83d98283a',1,'network::c()'],['../d5/d8d/structsize__params.html#aa260a97f277fe40b200756374ffe410d',1,'size_params::c()']]],
+  ['center',['center',['../d1/d09/structload__args.html#a84a09ba4d910b1129e92dd91fa01d6f0',1,'load_args::center()'],['../de/d45/structnetwork.html#a87bf27881ed88606fae1b80f9049e4ca',1,'network::center()']]],
+  ['child',['child',['../dc/d20/structtree.html#ac33525f8c2ea9df09aa39e4e5f0f46b0',1,'tree']]],
+  ['class',['class',['../df/d5e/structsortable__bbox.html#aefe2d2ab36d7ad2e8a104f99580cc9af',1,'sortable_bbox']]],
+  ['class_5fscale',['class_scale',['../d4/db8/structlayer.html#a7175af778d4be5a066ccc212421617b7',1,'layer']]],
+  ['classes',['classes',['../df/d5e/structsortable__bbox.html#ae063121410175a24bbb9ae8fe901c750',1,'sortable_bbox::classes()'],['../d1/d09/structload__args.html#af12ce52f9bf54ea7985cb0e9b9dfaf55',1,'load_args::classes()'],['../d4/db8/structlayer.html#af8d01e54a44d8682c38d431c32faed45',1,'layer::classes()']]],
+  ['classfix',['classfix',['../d4/db8/structlayer.html#a510630027ff3061ae0ad07e151fbf1a5',1,'layer']]],
+  ['coco_5fclasses',['coco_classes',['../d9/d90/coco_8c.html#a1da6305b8c6be56e3ec19a7ab02800c9',1,'coco.c']]],
+  ['coco_5fids',['coco_ids',['../d9/d90/coco_8c.html#a510b483a1df4daf892d602b2deedd78d',1,'coco_ids():&#160;coco.c'],['../df/d09/detector_8c.html#a510b483a1df4daf892d602b2deedd78d',1,'coco_ids():&#160;detector.c']]],
+  ['colors',['colors',['../d3/d10/image_8c.html#a152d20c4917c0dd67a9b5694afcc4926',1,'image.c']]],
+  ['cols',['cols',['../dd/d7b/structmatrix.html#a8a250fb537afd000561485dd88281356',1,'matrix']]],
+  ['concat',['concat',['../d4/db8/structlayer.html#aa2edc68cb4713d7b34f52b27b2c0a35b',1,'layer']]],
+  ['concat_5fdelta',['concat_delta',['../d4/db8/structlayer.html#a1de4fac7dfc2c7c9ab387bc322246258',1,'layer']]],
+  ['coord_5fscale',['coord_scale',['../d4/db8/structlayer.html#a4cb681c94203182c328d7818bcb39de8',1,'layer']]],
+  ['coords',['coords',['../d4/db8/structlayer.html#a6b8636464bcea5dea2c2235ee133af29',1,'layer']]],
+  ['cost',['cost',['../d4/db8/structlayer.html#a9a71dbf0ad70f63a10787d8217633776',1,'layer::cost()'],['../de/d45/structnetwork.html#ac80b4b4eeda5cf4cc4af5c2173d0ad31',1,'network::cost()']]],
+  ['cost_5ftype',['cost_type',['../d4/db8/structlayer.html#a8f172c29b1ada15656f1f346e7491507',1,'layer']]],
+  ['current_5fclass',['current_class',['../de/da9/compare_8c.html#a26df3943dbe9e069fd6a6923b0f47d23',1,'compare.c']]],
+  ['cweights',['cweights',['../d4/db8/structlayer.html#a5a1da440e0ebe63674288f9006bd8ad7',1,'layer']]]
+];

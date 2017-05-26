@@ -1,0 +1,12 @@
+<map id="test_box" name="test_box">
+<area shape="rect" id="node2" href="$d2/dd1/box_8c.html#ae14a614fc4d26ebb552d23615dfea313" title="box_iou" alt="" coords="136,26,204,52"/>
+<area shape="rect" id="node6" href="$d2/dd1/box_8c.html#a15facf6a91a4b408bb26ad32d0413673" title="diou" alt="" coords="147,125,193,150"/>
+<area shape="rect" id="node10" href="$d2/dd1/box_8c.html#a1ddd84257551f7fd38df886550e67359" title="test_dintersect" alt="" coords="263,177,371,202"/>
+<area shape="rect" id="node11" href="$d2/dd1/box_8c.html#ad9de7c64851fda7bea43a7aabc1e0c96" title="test_dunion" alt="" coords="125,76,215,101"/>
+<area shape="rect" id="node3" href="$d2/dd1/box_8c.html#a306e7943e82df234b6f9d9c70def621c" title="box_intersection" alt="" coords="419,77,538,102"/>
+<area shape="rect" id="node5" href="$d2/dd1/box_8c.html#a6f5e94eb9c925d29647fd649799b8066" title="box_union" alt="" coords="276,26,359,52"/>
+<area shape="rect" id="node4" href="$d2/dd1/box_8c.html#a49bbaf2c74dad0f7bbca22c9e41286ca" title="overlap" alt="" coords="592,90,658,116"/>
+<area shape="rect" id="node7" href="$d2/dd1/box_8c.html#ad94a4ec073b2f6ee903fb0b5ab454cb9" title="dintersect" alt="" coords="439,165,518,190"/>
+<area shape="rect" id="node9" href="$d2/dd1/box_8c.html#ac771494b82a6acf3d931e2036f78f1a1" title="dunion" alt="" coords="287,128,348,153"/>
+<area shape="rect" id="node8" href="$d2/dd1/box_8c.html#a0a70286448dcb4dfca4ead3539e48a87" title="derivative" alt="" coords="586,165,664,190"/>
+</map>

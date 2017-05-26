@@ -1,0 +1,10 @@
+<map id="get_color" name="get_color">
+<area shape="rect" id="node2" href="$d5/db2/image_8h.html#a44853ba6fa67dd2de816afdab5ef3cc2" title="draw_detections" alt="" coords="130,69,248,95"/>
+<area shape="rect" id="node3" href="$d9/d90/coco_8c.html#a3750d7559afe9fbdcc98dfb5383275a7" title="test_coco" alt="" coords="306,13,384,39"/>
+<area shape="rect" id="node6" href="$df/d09/detector_8c.html#ad29ded4bbd1d823ecf9a61135e0710cb" title="test_detector" alt="" coords="296,69,394,95"/>
+<area shape="rect" id="node8" href="$d5/d37/yolo_8c.html#ac1d1d478258afdb0266722f4a8571587" title="test_yolo" alt="" coords="308,131,383,156"/>
+<area shape="rect" id="node4" href="$dd/df8/darknet_8c.html#a9a2e98f86cd2b185650f4ec039d38b03" title="run_coco" alt="" coords="452,5,529,31"/>
+<area shape="rect" id="node5" href="$dd/df8/darknet_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="587,81,637,107"/>
+<area shape="rect" id="node7" href="$df/d09/detector_8c.html#a677c1747fd7a58c7f7da3314af5d6120" title="run_detector" alt="" coords="442,107,539,132"/>
+<area shape="rect" id="node9" href="$d5/d37/yolo_8c.html#ae2af4814947b728e7cfafec8c446050e" title="run_yolo" alt="" coords="454,156,527,181"/>
+</map>

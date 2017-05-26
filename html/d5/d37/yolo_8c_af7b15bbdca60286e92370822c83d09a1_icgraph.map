@@ -1,0 +1,5 @@
+<map id="print_yolo_detections" name="print_yolo_detections">
+<area shape="rect" id="node2" href="$d5/d37/yolo_8c.html#aa370134e19dcbef76ef234c1ab7c6065" title="validate_yolo" alt="" coords="201,5,300,31"/>
+<area shape="rect" id="node3" href="$d5/d37/yolo_8c.html#ae2af4814947b728e7cfafec8c446050e" title="run_yolo" alt="" coords="348,5,420,31"/>
+<area shape="rect" id="node4" href="$dd/df8/darknet_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="468,5,519,31"/>
+</map>

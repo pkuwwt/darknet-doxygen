@@ -1,0 +1,5 @@
+<map id="box_iou" name="box_iou">
+<area shape="rect" id="node2" href="$d2/dd1/box_8c.html#a306e7943e82df234b6f9d9c70def621c" title="box_intersection" alt="" coords="252,5,371,31"/>
+<area shape="rect" id="node4" href="$d2/dd1/box_8c.html#a6f5e94eb9c925d29647fd649799b8066" title="box_union" alt="" coords="121,31,204,56"/>
+<area shape="rect" id="node3" href="$d2/dd1/box_8c.html#a49bbaf2c74dad0f7bbca22c9e41286ca" title="overlap" alt="" coords="419,5,484,31"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="random_go_moves" name="random_go_moves">
+<area shape="rect" id="node2" href="$d3/d10/image_8c.html#ac226109dbae019db599ceb71d5f6aca8" title="flip_image" alt="" coords="209,5,291,31"/>
+<area shape="rect" id="node3" href="$d3/d10/image_8c.html#a30912fff1b55bfe3f46db0dcf74f6024" title="float_to_image" alt="" coords="196,55,305,80"/>
+<area shape="rect" id="node5" href="$dc/dca/matrix_8c.html#a47438b60c4cf871ff2523161d8a26eef" title="make_matrix" alt="" coords="201,104,299,129"/>
+<area shape="rect" id="node6" href="$d3/d10/image_8c.html#a5f4eee7b0d6fbc221d65b48e6ca12f43" title="rotate_image_cw" alt="" coords="189,153,312,179"/>
+<area shape="rect" id="node7" href="$db/d2a/go_8c.html#a17432d5a451dec0ceeb8db0e17ebe207" title="string_to_board" alt="" coords="193,203,307,228"/>
+<area shape="rect" id="node4" href="$d3/d10/image_8c.html#a28bb9f835989b2f7e908386421c52837" title="make_empty_image" alt="" coords="360,55,501,80"/>
+</map>

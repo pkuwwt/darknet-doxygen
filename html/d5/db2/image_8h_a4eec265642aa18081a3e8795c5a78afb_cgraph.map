@@ -1,0 +1,12 @@
+<map id="load_image" name="load_image">
+<area shape="rect" id="node2" href="$d3/d10/image_8c.html#a1b35e408b961d58f7e29ec146be91160" title="free_image" alt="" coords="330,153,418,179"/>
+<area shape="rect" id="node3" href="$d3/d10/image_8c.html#ad261f655bdf097a0c59699757cdcfd0d" title="load_image_stb" alt="" coords="144,79,259,104"/>
+<area shape="rect" id="node8" href="$d3/d10/image_8c.html#a583d43a007a97bb92fcbac12b8394c72" title="resize_image" alt="" coords="151,203,252,228"/>
+<area shape="rect" id="node4" href="$d3/d10/image_8c.html#a726c30d7f0779c46f9ba5b8a3c2f94a1" title="make_image" alt="" coords="325,104,423,129"/>
+<area shape="rect" id="node6" href="$d6/d40/stb__image_8h.html#aa874b3ba909f3281d499894909678336" title="stbi_failure_reason" alt="" coords="307,55,441,80"/>
+<area shape="rect" id="node7" href="$d6/d40/stb__image_8h.html#afc1b308e85e352b39bdd6ab1a3276a22" title="stbi_load" alt="" coords="337,5,411,31"/>
+<area shape="rect" id="node5" href="$d3/d10/image_8c.html#a28bb9f835989b2f7e908386421c52837" title="make_empty_image" alt="" coords="489,104,630,129"/>
+<area shape="rect" id="node9" href="$d3/d10/image_8c.html#a0f7cf32ab3f9dfa21ac055a467c7c1fb" title="add_pixel" alt="" coords="335,203,413,228"/>
+<area shape="rect" id="node10" href="$d3/d10/image_8c.html#ab2ddb4ea0bc935f26ce71a731a3241d9" title="get_pixel" alt="" coords="337,252,411,277"/>
+<area shape="rect" id="node11" href="$d3/d10/image_8c.html#a566c2d016eb920d2fee7d3bb055a720b" title="set_pixel" alt="" coords="337,301,411,327"/>
+</map>

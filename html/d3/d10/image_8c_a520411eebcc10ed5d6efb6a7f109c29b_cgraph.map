@@ -1,0 +1,9 @@
+<map id="collapse_image_layers" name="collapse_image_layers">
+<area shape="rect" id="node2" href="$d3/d10/image_8c.html#a0320f25f8508fb74f62f151f2ffb0e73" title="embed_image" alt="" coords="217,17,323,43"/>
+<area shape="rect" id="node5" href="$d3/d10/image_8c.html#a1b35e408b961d58f7e29ec146be91160" title="free_image" alt="" coords="226,67,314,92"/>
+<area shape="rect" id="node6" href="$d3/d10/image_8c.html#a76e824c4e5202297b817c0aeba10944f" title="get_image_layer" alt="" coords="210,116,330,141"/>
+<area shape="rect" id="node7" href="$d3/d10/image_8c.html#a726c30d7f0779c46f9ba5b8a3c2f94a1" title="make_image" alt="" coords="378,129,476,155"/>
+<area shape="rect" id="node3" href="$d3/d10/image_8c.html#ab2ddb4ea0bc935f26ce71a731a3241d9" title="get_pixel" alt="" coords="390,5,464,31"/>
+<area shape="rect" id="node4" href="$d3/d10/image_8c.html#a566c2d016eb920d2fee7d3bb055a720b" title="set_pixel" alt="" coords="390,55,464,80"/>
+<area shape="rect" id="node8" href="$d3/d10/image_8c.html#a28bb9f835989b2f7e908386421c52837" title="make_empty_image" alt="" coords="524,129,665,155"/>
+</map>

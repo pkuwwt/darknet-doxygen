@@ -1,0 +1,6 @@
+<map id="print_detector_detections" name="print_detector_detections">
+<area shape="rect" id="node2" href="$df/d09/detector_8c.html#aea37ad211a83b40620a2df0eb6623a66" title="validate_detector" alt="" coords="237,5,360,31"/>
+<area shape="rect" id="node5" href="$df/d09/detector_8c.html#a8e19e1fdfb2b82b5ce3b72bc8580d8e3" title="validate_detector_flip" alt="" coords="224,55,372,80"/>
+<area shape="rect" id="node3" href="$df/d09/detector_8c.html#a677c1747fd7a58c7f7da3314af5d6120" title="run_detector" alt="" coords="420,31,516,56"/>
+<area shape="rect" id="node4" href="$dd/df8/darknet_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="564,31,614,56"/>
+</map>

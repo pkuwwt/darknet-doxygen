@@ -1,0 +1,11 @@
+<map id="string_to_board" name="string_to_board">
+<area shape="rect" id="node2" href="$db/d2a/go_8c.html#a5e615416377c6eccb3f3bb611336dce7" title="legal_go" alt="" coords="199,55,271,80"/>
+<area shape="rect" id="node8" href="$db/d2a/go_8c.html#a4f610a96be9e62cbff6c70e1ec9c227a" title="random_go_moves" alt="" coords="167,105,303,131"/>
+<area shape="rect" id="node10" href="$db/d2a/go_8c.html#ae3949a68287cfeb7a1c35abfca445142" title="valid_go" alt="" coords="372,156,443,181"/>
+<area shape="rect" id="node3" href="$db/d2a/go_8c.html#a9307b0658d55b7b789b8386553d83336" title="generate_move" alt="" coords="351,55,465,80"/>
+<area shape="rect" id="node4" href="$db/d2a/go_8c.html#a634a03028ba512387aae19012c424818" title="engine_go" alt="" coords="513,5,596,31"/>
+<area shape="rect" id="node7" href="$db/d2a/go_8c.html#aef3d780fb37b0f0a08f1eb90a807247a" title="self_go" alt="" coords="522,55,587,80"/>
+<area shape="rect" id="node5" href="$db/d2a/go_8c.html#acbc5b7a174f506f13ab6d0fca1faa102" title="run_go" alt="" coords="644,80,707,105"/>
+<area shape="rect" id="node6" href="$dd/df8/darknet_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="755,80,805,105"/>
+<area shape="rect" id="node9" href="$db/d2a/go_8c.html#a1bee8a9fcda465fdc3b9cf57b7646f7d" title="train_go" alt="" coords="373,105,443,131"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="move_go" name="move_go">
+<area shape="rect" id="node2" href="$db/d2a/go_8c.html#a634a03028ba512387aae19012c424818" title="engine_go" alt="" coords="411,33,495,58"/>
+<area shape="rect" id="node5" href="$db/d2a/go_8c.html#a5e615416377c6eccb3f3bb611336dce7" title="legal_go" alt="" coords="130,33,201,58"/>
+<area shape="rect" id="node7" href="$db/d2a/go_8c.html#aef3d780fb37b0f0a08f1eb90a807247a" title="self_go" alt="" coords="421,83,485,109"/>
+<area shape="rect" id="node8" href="$db/d2a/go_8c.html#a88ad2f96f9ea8092406bcb8f1873e92d" title="test_go" alt="" coords="274,134,339,159"/>
+<area shape="rect" id="node3" href="$db/d2a/go_8c.html#acbc5b7a174f506f13ab6d0fca1faa102" title="run_go" alt="" coords="543,83,606,109"/>
+<area shape="rect" id="node4" href="$dd/df8/darknet_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="654,83,704,109"/>
+<area shape="rect" id="node6" href="$db/d2a/go_8c.html#a9307b0658d55b7b789b8386553d83336" title="generate_move" alt="" coords="249,33,363,58"/>
+</map>

@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['n',['n',['../d1/d09/structload__args.html#a46de5db87a3c8c05130d5b23a2cdea2f',1,'load_args::n()'],['../d6/d30/structmoves.html#aa81066b4e56914d3d6fa93fee404e062',1,'moves::n()'],['../d4/db8/structlayer.html#a454b8980d0186eb0095a25aadef41744',1,'layer::n()'],['../de/d45/structnetwork.html#a1c7625720955322d05924a075d013877',1,'network::n()'],['../dc/d20/structtree.html#a2273fc7497601bfaf9121d1a797453b5',1,'tree::n()']]],
+  ['name',['name',['../dc/d20/structtree.html#aef62d17752842a143625d7313073c068',1,'tree']]],
+  ['nbiases',['nbiases',['../d4/db8/structlayer.html#a8da8330f6a80f7fcb86fb2421c0484e5',1,'layer']]],
+  ['net',['net',['../df/d5e/structsortable__bbox.html#a7f9f2d90e273f7454bbd5e841e23e9e1',1,'sortable_bbox::net()'],['../d5/d8d/structsize__params.html#afd0e06058d3ccfc9ce96c72069a8a257',1,'size_params::net()']]],
+  ['next',['next',['../d5/da1/structnode.html#aa3e8aa83f864292b5a01210f4453fcc0',1,'node']]],
+  ['nh',['nh',['../d1/d09/structload__args.html#a2a9063dbc5416dc01971bec6a3179a80',1,'load_args']]],
+  ['nind',['nind',['../db/d2a/go_8c.html#ad9ac4abfd1668c2eff233db8a57475ce',1,'go.c']]],
+  ['noadjust',['noadjust',['../d4/db8/structlayer.html#addd7dd5ca8a7ce6bb15aa2d06efe69ee',1,'layer']]],
+  ['noi',['noi',['../db/d2a/go_8c.html#afd34566fdbd8e7f8f4d5b750a3040191',1,'go.c']]],
+  ['noobject_5fscale',['noobject_scale',['../d4/db8/structlayer.html#ad10b4f2f32b1991c3cd8e66d138c5eaa',1,'layer']]],
+  ['norms',['norms',['../d4/db8/structlayer.html#acb730788dd9a0c77c7e501b9118a2933',1,'layer']]],
+  ['notruth',['notruth',['../de/d45/structnetwork.html#a6769bc5e23225cecf0a46eedba29719a',1,'network']]],
+  ['num_5fboxes',['num_boxes',['../df/dea/structdata.html#afba4d3b06050db7a30b0b11809ae6e23',1,'data::num_boxes()'],['../d1/d09/structload__args.html#ac8bdb2525a537b886829037122651101',1,'load_args::num_boxes()']]],
+  ['num_5fsteps',['num_steps',['../de/d45/structnetwork.html#a6e656092c18afdc2bcb72f87d0ed2547',1,'network']]],
+  ['nw',['nw',['../d1/d09/structload__args.html#a46bfaa805648b12918b2fff4c66940c7',1,'load_args']]],
+  ['nweights',['nweights',['../d4/db8/structlayer.html#a76a23567dbc4b223d8ba3c34c0f5e82f',1,'layer']]]
+];

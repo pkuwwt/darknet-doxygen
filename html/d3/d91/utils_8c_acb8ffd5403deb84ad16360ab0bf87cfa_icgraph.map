@@ -1,0 +1,12 @@
+<map id="variance_array" name="variance_array">
+<area shape="rect" id="node2" href="$dd/d03/nightmare_8c.html#a561eaf6bb47290c5cddb9ba6b5c66f48" title="calculate_loss" alt="" coords="169,5,274,31"/>
+<area shape="rect" id="node6" href="$d5/d60/utils_8h.html#af0d493fdef09c062d7c28c10401beed0" title="normalize_array" alt="" coords="163,55,280,80"/>
+<area shape="rect" id="node8" href="$d9/d94/network_8h.html#aded1fe29d38b99e33a816677a4c01078" title="print_network" alt="" coords="171,104,272,129"/>
+<area shape="rect" id="node9" href="$d5/d60/utils_8h.html#ae211f70582950d61802e8ebc3ae0b665" title="print_statistics" alt="" coords="168,153,274,179"/>
+<area shape="rect" id="node3" href="$dd/d03/nightmare_8c.html#a3fa2a59e61282c0b9a673497b0e5b1f0" title="optimize_picture" alt="" coords="343,16,461,41"/>
+<area shape="rect" id="node4" href="$dd/d03/nightmare_8c.html#aaefb0ed0f5bd621bb9e131e2bc1b4852" title="run_nightmare" alt="" coords="524,36,631,61"/>
+<area shape="rect" id="node5" href="$dd/df8/darknet_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="679,71,729,96"/>
+<area shape="rect" id="node7" href="$d2/dbd/data_8h.html#a8bb2e4f18bee940f1b3e76ada4bf7e09" title="normalize_data_rows" alt="" coords="328,65,476,91"/>
+<area shape="rect" id="node10" href="$de/d35/connected__layer_8h.html#ac9042bad9fb378158ff9ec36719b4b79" title="statistics_connected\l_layer" alt="" coords="331,136,473,175"/>
+<area shape="rect" id="node11" href="$dd/df8/darknet_8c.html#ab619dcce0bf0acf8db3db0d86dfa83de" title="statistics_net" alt="" coords="528,104,627,129"/>
+</map>

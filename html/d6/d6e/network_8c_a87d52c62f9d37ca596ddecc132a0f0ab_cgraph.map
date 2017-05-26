@@ -1,0 +1,5 @@
+<map id="update_network" name="update_network">
+<area shape="rect" id="node2" href="$d6/d6e/network_8c.html#ac997daf700149608de15d93a083c33dc" title="get_current_rate" alt="" coords="170,31,289,56"/>
+<area shape="rect" id="node3" href="$d6/d6e/network_8c.html#a95734b6e69a080abf33395707ab56b59" title="get_current_batch" alt="" coords="337,5,466,31"/>
+<area shape="rect" id="node4" href="$d3/d91/utils_8c.html#a5492196e16ed2d16bae1df8483ef79ed" title="rand_uniform" alt="" coords="351,55,451,80"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="hierarchy_predictions" name="hierarchy_predictions">
+<area shape="rect" id="node2" href="$d0/db9/classifier_8c.html#ac5e746c237b87dfa56d2ac1a5db9f3b9" title="demo_classifier" alt="" coords="220,131,334,156"/>
+<area shape="rect" id="node5" href="$df/d08/region__layer_8h.html#a07c0e92090deac070be99cd552dfe39f" title="get_region_boxes" alt="" coords="213,329,341,355"/>
+<area shape="rect" id="node11" href="$dd/df8/darknet_8c.html#aa8603edf5e9da49cdee89b35d6bc5b42" title="predict_classifier" alt="" coords="217,279,337,304"/>
+<area shape="rect" id="node12" href="$d0/db9/classifier_8c.html#ae6830ebfccd79c255f5cac844aa5454b" title="validate_classifier_10" alt="" coords="203,180,351,205"/>
+<area shape="rect" id="node13" href="$d0/db9/classifier_8c.html#aeae387d13aac40e2eb3aff9584f03a8b" title="validate_classifier_full" alt="" coords="201,229,352,255"/>
+<area shape="rect" id="node14" href="$d0/db9/classifier_8c.html#a4b863efd1e5f3105ed4843963b8d8412" title="validate_classifier\l_multi" alt="" coords="214,5,340,44"/>
+<area shape="rect" id="node15" href="$d0/db9/classifier_8c.html#a654da2bb707e0b4538d2193e6d8f55d1" title="validate_classifier\l_single" alt="" coords="214,68,340,107"/>
+<area shape="rect" id="node3" href="$dd/df8/darknet_8c.html#a08cb29ba2c4674431352eff4e6274b56" title="run_classifier" alt="" coords="432,179,531,204"/>
+<area shape="rect" id="node4" href="$dd/df8/darknet_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="755,280,805,305"/>
+<area shape="rect" id="node6" href="$df/d09/detector_8c.html#ad29ded4bbd1d823ecf9a61135e0710cb" title="test_detector" alt="" coords="432,428,531,453"/>
+<area shape="rect" id="node8" href="$df/d09/detector_8c.html#aea37ad211a83b40620a2df0eb6623a66" title="validate_detector" alt="" coords="420,379,543,404"/>
+<area shape="rect" id="node9" href="$df/d09/detector_8c.html#a8e19e1fdfb2b82b5ce3b72bc8580d8e3" title="validate_detector_flip" alt="" coords="408,280,555,305"/>
+<area shape="rect" id="node10" href="$df/d09/detector_8c.html#a4f5828b59e5940a47f390c2e430fd3d4" title="validate_detector_recall" alt="" coords="400,329,563,355"/>
+<area shape="rect" id="node7" href="$df/d09/detector_8c.html#a677c1747fd7a58c7f7da3314af5d6120" title="run_detector" alt="" coords="611,329,707,355"/>
+</map>

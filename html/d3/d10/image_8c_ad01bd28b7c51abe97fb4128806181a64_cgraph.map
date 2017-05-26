@@ -1,0 +1,8 @@
+<map id="rotate_crop_image" name="rotate_crop_image">
+<area shape="rect" id="node2" href="$d3/d10/image_8c.html#a042cf66bb9669d6ca59dcedf2461fc74" title="bilinear_interpolate" alt="" coords="186,5,320,31"/>
+<area shape="rect" id="node5" href="$d3/d10/image_8c.html#a726c30d7f0779c46f9ba5b8a3c2f94a1" title="make_image" alt="" coords="204,55,302,80"/>
+<area shape="rect" id="node7" href="$d3/d10/image_8c.html#a566c2d016eb920d2fee7d3bb055a720b" title="set_pixel" alt="" coords="216,104,290,129"/>
+<area shape="rect" id="node3" href="$d3/d10/image_8c.html#afb5311c1f76ab7e8f37ecf36109df851" title="get_pixel_extend" alt="" coords="377,5,500,31"/>
+<area shape="rect" id="node4" href="$d3/d10/image_8c.html#ab2ddb4ea0bc935f26ce71a731a3241d9" title="get_pixel" alt="" coords="557,5,632,31"/>
+<area shape="rect" id="node6" href="$d3/d10/image_8c.html#a28bb9f835989b2f7e908386421c52837" title="make_empty_image" alt="" coords="368,55,509,80"/>
+</map>

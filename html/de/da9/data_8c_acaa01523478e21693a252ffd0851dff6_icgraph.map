@@ -1,0 +1,10 @@
+<map id="load_threads" name="load_threads">
+<area shape="rect" id="node2" href="$d2/dbd/data_8h.html#a1ebf184d64b6d068463176b30445e90f" title="load_data" alt="" coords="152,55,232,80"/>
+<area shape="rect" id="node3" href="$d0/db9/classifier_8c.html#ad875e8ecf86a386ce16c7142484f3efb" title="train_classifier" alt="" coords="282,5,388,31"/>
+<area shape="rect" id="node6" href="$df/d09/detector_8c.html#ae007089ceccb49a69ffa696a4f8dd78a" title="train_detector" alt="" coords="284,55,387,80"/>
+<area shape="rect" id="node8" href="$dd/d39/regressor_8c.html#aa4426c2ef23d84bceb3b5a0e6465ad25" title="train_regressor" alt="" coords="280,104,391,129"/>
+<area shape="rect" id="node4" href="$dd/df8/darknet_8c.html#a08cb29ba2c4674431352eff4e6274b56" title="run_classifier" alt="" coords="441,5,541,31"/>
+<area shape="rect" id="node5" href="$dd/df8/darknet_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="591,55,641,80"/>
+<area shape="rect" id="node7" href="$df/d09/detector_8c.html#a677c1747fd7a58c7f7da3314af5d6120" title="run_detector" alt="" coords="443,55,539,80"/>
+<area shape="rect" id="node9" href="$dd/d39/regressor_8c.html#aa80afdae21d8e85cfa1ead4aea5e4467" title="run_regressor" alt="" coords="439,104,543,129"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="legal_go" name="legal_go">
+<area shape="rect" id="node2" href="$db/d2a/go_8c.html#add4047a6b13dcaa1653e9f6a953a7c18" title="board_to_string" alt="" coords="125,5,239,31"/>
+<area shape="rect" id="node3" href="$db/d2a/go_8c.html#a4fcf68963d283904716e37878758a5d6" title="move_go" alt="" coords="144,55,220,80"/>
+<area shape="rect" id="node7" href="$db/d2a/go_8c.html#a17432d5a451dec0ceeb8db0e17ebe207" title="string_to_board" alt="" coords="125,104,239,129"/>
+<area shape="rect" id="node4" href="$db/d2a/go_8c.html#a0325b17ac24c70c48cc3d31942ca8d82" title="calculate_liberties" alt="" coords="291,31,418,56"/>
+<area shape="rect" id="node6" href="$db/d2a/go_8c.html#a6dc1ee84d43a5f685069206988bbddcc" title="remove_connected" alt="" coords="287,80,422,105"/>
+<area shape="rect" id="node5" href="$db/d2a/go_8c.html#a4815ef06123df68153376568ad5dad2b" title="propagate_liberty" alt="" coords="470,31,594,56"/>
+</map>

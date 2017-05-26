@@ -1,0 +1,11 @@
+<map id="get_network_image" name="get_network_image">
+<area shape="rect" id="node2" href="$dd/d03/nightmare_8c.html#aaefb0ed0f5bd621bb9e131e2bc1b4852" title="run_nightmare" alt="" coords="332,5,440,31"/>
+<area shape="rect" id="node4" href="$d2/d1d/super_8c.html#aad6e292cdad8f47b71375c0e09959863" title="test_super" alt="" coords="196,55,279,80"/>
+<area shape="rect" id="node6" href="$da/d6c/voxel_8c.html#ae712ed693cfbc02f6869fcccaac711e8" title="test_voxel" alt="" coords="197,104,278,129"/>
+<area shape="rect" id="node8" href="$da/d32/writing_8c.html#af7c6f6ae0cf9711426c11a9e7929fe5c" title="test_writing" alt="" coords="193,153,282,179"/>
+<area shape="rect" id="node10" href="$da/d32/writing_8c.html#aeb2dc69d7f9c6a34bc5dd57890373f9f" title="train_writing" alt="" coords="191,203,284,228"/>
+<area shape="rect" id="node3" href="$dd/df8/darknet_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="488,80,538,105"/>
+<area shape="rect" id="node5" href="$d2/d1d/super_8c.html#a4bc1230a2d77e86644c4719157fc69cc" title="run_super" alt="" coords="345,55,427,80"/>
+<area shape="rect" id="node7" href="$da/d6c/voxel_8c.html#a2d502a871e36992b74083d7f81377d9b" title="run_voxel" alt="" coords="346,104,425,129"/>
+<area shape="rect" id="node9" href="$da/d32/writing_8c.html#a95a0514071cfac42ef963ccead9acb49" title="run_writing" alt="" coords="343,153,429,179"/>
+</map>

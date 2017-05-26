@@ -1,0 +1,6 @@
+<map id="parse_avgpool" name="parse_avgpool">
+<area shape="rect" id="node2" href="$d3/d91/utils_8c.html#a6c317cffefb9737fb2260da73688f275" title="error" alt="" coords="210,5,259,31"/>
+<area shape="rect" id="node3" href="$d3/db0/avgpool__layer_8c.html#aa48973ba2fa1987674e789d1511307c4" title="make_avgpool_layer" alt="" coords="162,55,307,80"/>
+<area shape="rect" id="node4" href="$d3/db0/avgpool__layer_8c.html#a08eb5fae5bf3a51b3d1b6c84974acd36" title="backward_avgpool_layer" alt="" coords="355,29,523,55"/>
+<area shape="rect" id="node5" href="$d3/db0/avgpool__layer_8c.html#abacd82eb3f6c169bac2d6f9ce591fbe3" title="forward_avgpool_layer" alt="" coords="361,79,517,104"/>
+</map>

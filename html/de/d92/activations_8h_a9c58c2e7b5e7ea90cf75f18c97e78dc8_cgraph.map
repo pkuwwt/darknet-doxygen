@@ -1,0 +1,16 @@
+<map id="activate_array" name="activate_array">
+<area shape="rect" id="node2" href="$dd/d2e/activations_8c.html#a031d574d016f6a31eae5bbddfbac3dc5" title="activate" alt="" coords="158,301,226,327"/>
+<area shape="rect" id="node3" href="$de/d92/activations_8h.html#acce967bf6526bd7994919b94b5b3af14" title="elu_activate" alt="" coords="287,5,380,31"/>
+<area shape="rect" id="node4" href="$de/d92/activations_8h.html#ae2948bccc35ed0c3387f7d3c8ec79787" title="hardtan_activate" alt="" coords="274,55,394,80"/>
+<area shape="rect" id="node5" href="$de/d92/activations_8h.html#a5a6368990806124d3250b333ed565b4a" title="leaky_activate" alt="" coords="281,104,387,129"/>
+<area shape="rect" id="node6" href="$de/d92/activations_8h.html#acc9d7e9215ddc5c6a01dcafb3d796e27" title="lhtan_activate" alt="" coords="282,153,385,179"/>
+<area shape="rect" id="node7" href="$de/d92/activations_8h.html#a1f5850078bfdb4497930848b0f2038e6" title="linear_activate" alt="" coords="280,203,387,228"/>
+<area shape="rect" id="node8" href="$de/d92/activations_8h.html#a44310fdff610a48bdf99bb1c77802660" title="loggy_activate" alt="" coords="280,252,387,277"/>
+<area shape="rect" id="node9" href="$de/d92/activations_8h.html#a851af6d779ff52c59d910f3692565361" title="logistic_activate" alt="" coords="276,301,391,327"/>
+<area shape="rect" id="node10" href="$de/d92/activations_8h.html#a6b8b9d9498305d2ef7000dd6a1f818bc" title="plse_activate" alt="" coords="284,351,383,376"/>
+<area shape="rect" id="node11" href="$de/d92/activations_8h.html#a86e53d56302efa6b39c8728066ceb14a" title="ramp_activate" alt="" coords="281,400,386,425"/>
+<area shape="rect" id="node12" href="$de/d92/activations_8h.html#a4e3cc496939c8e1b87a15de3c87df807" title="relie_activate" alt="" coords="284,449,384,475"/>
+<area shape="rect" id="node13" href="$de/d92/activations_8h.html#a6fb9a058235cf6c731a6eb3ee8616fd7" title="relu_activate" alt="" coords="285,499,382,524"/>
+<area shape="rect" id="node14" href="$de/d92/activations_8h.html#aac25575dac41b794e1f4fff6ad56e6c7" title="stair_activate" alt="" coords="284,548,384,573"/>
+<area shape="rect" id="node15" href="$de/d92/activations_8h.html#abe8175839177b65bd6b33c32200f348c" title="tanh_activate" alt="" coords="283,597,384,623"/>
+</map>

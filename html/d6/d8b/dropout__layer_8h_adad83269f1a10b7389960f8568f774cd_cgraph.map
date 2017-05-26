@@ -1,0 +1,5 @@
+<map id="make_dropout_layer" name="make_dropout_layer">
+<area shape="rect" id="node2" href="$d6/ded/dropout__layer_8c.html#ada4b6162d5622aa8e7a23eb315280b9e" title="backward_dropout_layer" alt="" coords="196,5,364,31"/>
+<area shape="rect" id="node3" href="$d6/ded/dropout__layer_8c.html#a7add1464a4c6ca04f70627c953256832" title="forward_dropout_layer" alt="" coords="203,55,357,80"/>
+<area shape="rect" id="node4" href="$d3/d91/utils_8c.html#a5492196e16ed2d16bae1df8483ef79ed" title="rand_uniform" alt="" coords="412,55,511,80"/>
+</map>

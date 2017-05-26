@@ -1,0 +1,5 @@
+<map id="get_rnn_data" name="get_rnn_data">
+<area shape="rect" id="node2" href="$d6/d8c/rnn_8c.html#a29452f6bf562d39cbf38df330b7d036e" title="train_char_rnn" alt="" coords="153,5,261,31"/>
+<area shape="rect" id="node3" href="$d6/d8c/rnn_8c.html#a7fd5ff39b30355662b36d8f1c3efae78" title="run_char_rnn" alt="" coords="309,5,409,31"/>
+<area shape="rect" id="node4" href="$dd/df8/darknet_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="457,5,507,31"/>
+</map>

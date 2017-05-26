@@ -1,0 +1,7 @@
+<map id="suicide_go" name="suicide_go">
+<area shape="rect" id="node2" href="$db/d2a/go_8c.html#a9307b0658d55b7b789b8386553d83336" title="generate_move" alt="" coords="138,31,252,56"/>
+<area shape="rect" id="node3" href="$db/d2a/go_8c.html#a634a03028ba512387aae19012c424818" title="engine_go" alt="" coords="300,5,384,31"/>
+<area shape="rect" id="node6" href="$db/d2a/go_8c.html#aef3d780fb37b0f0a08f1eb90a807247a" title="self_go" alt="" coords="310,55,374,80"/>
+<area shape="rect" id="node4" href="$db/d2a/go_8c.html#acbc5b7a174f506f13ab6d0fca1faa102" title="run_go" alt="" coords="432,31,495,56"/>
+<area shape="rect" id="node5" href="$dd/df8/darknet_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="543,31,593,56"/>
+</map>

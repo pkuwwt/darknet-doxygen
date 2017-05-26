@@ -1,0 +1,11 @@
+<map id="center_crop_image" name="center_crop_image">
+<area shape="rect" id="node2" href="$d3/d10/image_8c.html#ad323458860dbdb7a2af97b9b35ad91bf" title="crop_image" alt="" coords="194,104,285,129"/>
+<area shape="rect" id="node8" href="$d3/d10/image_8c.html#a1b35e408b961d58f7e29ec146be91160" title="free_image" alt="" coords="342,252,430,277"/>
+<area shape="rect" id="node9" href="$d3/d10/image_8c.html#a583d43a007a97bb92fcbac12b8394c72" title="resize_image" alt="" coords="189,153,289,179"/>
+<area shape="rect" id="node3" href="$d3/d10/image_8c.html#a726c30d7f0779c46f9ba5b8a3c2f94a1" title="make_image" alt="" coords="337,55,435,80"/>
+<area shape="rect" id="node5" href="$d3/d91/utils_8c.html#a5402a85f04198ed74b0ac1172b673a14" title="constrain_int" alt="" coords="338,5,435,31"/>
+<area shape="rect" id="node6" href="$d3/d10/image_8c.html#ab2ddb4ea0bc935f26ce71a731a3241d9" title="get_pixel" alt="" coords="349,104,424,129"/>
+<area shape="rect" id="node7" href="$d3/d10/image_8c.html#a566c2d016eb920d2fee7d3bb055a720b" title="set_pixel" alt="" coords="349,153,423,179"/>
+<area shape="rect" id="node4" href="$d3/d10/image_8c.html#a28bb9f835989b2f7e908386421c52837" title="make_empty_image" alt="" coords="483,55,624,80"/>
+<area shape="rect" id="node10" href="$d3/d10/image_8c.html#a0f7cf32ab3f9dfa21ac055a467c7c1fb" title="add_pixel" alt="" coords="347,203,425,228"/>
+</map>

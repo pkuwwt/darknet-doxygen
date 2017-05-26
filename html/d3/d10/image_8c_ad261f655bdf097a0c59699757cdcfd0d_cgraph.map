@@ -1,0 +1,6 @@
+<map id="load_image_stb" name="load_image_stb">
+<area shape="rect" id="node2" href="$d3/d10/image_8c.html#a726c30d7f0779c46f9ba5b8a3c2f94a1" title="make_image" alt="" coords="187,5,285,31"/>
+<area shape="rect" id="node4" href="$d6/d40/stb__image_8h.html#aa874b3ba909f3281d499894909678336" title="stbi_failure_reason" alt="" coords="169,55,303,80"/>
+<area shape="rect" id="node5" href="$d6/d40/stb__image_8h.html#afc1b308e85e352b39bdd6ab1a3276a22" title="stbi_load" alt="" coords="198,104,273,129"/>
+<area shape="rect" id="node3" href="$d3/d10/image_8c.html#a28bb9f835989b2f7e908386421c52837" title="make_empty_image" alt="" coords="351,5,492,31"/>
+</map>

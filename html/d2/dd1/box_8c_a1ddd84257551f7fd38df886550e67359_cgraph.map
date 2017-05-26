@@ -1,0 +1,6 @@
+<map id="test_dintersect" name="test_dintersect">
+<area shape="rect" id="node2" href="$d2/dd1/box_8c.html#a306e7943e82df234b6f9d9c70def621c" title="box_intersection" alt="" coords="161,5,280,31"/>
+<area shape="rect" id="node4" href="$d2/dd1/box_8c.html#ad94a4ec073b2f6ee903fb0b5ab454cb9" title="dintersect" alt="" coords="181,55,260,80"/>
+<area shape="rect" id="node3" href="$d2/dd1/box_8c.html#a49bbaf2c74dad0f7bbca22c9e41286ca" title="overlap" alt="" coords="334,5,400,31"/>
+<area shape="rect" id="node5" href="$d2/dd1/box_8c.html#a0a70286448dcb4dfca4ead3539e48a87" title="derivative" alt="" coords="328,55,406,80"/>
+</map>

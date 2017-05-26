@@ -1,0 +1,12 @@
+<map id="propagate_liberty" name="propagate_liberty">
+<area shape="rect" id="node2" href="$db/d2a/go_8c.html#a0325b17ac24c70c48cc3d31942ca8d82" title="calculate_liberties" alt="" coords="178,144,305,169"/>
+<area shape="rect" id="node3" href="$db/d2a/go_8c.html#a4fcf68963d283904716e37878758a5d6" title="move_go" alt="" coords="357,107,434,132"/>
+<area shape="rect" id="node11" href="$db/d2a/go_8c.html#a7ccdbba6020a5a2bfe35524ed01d83df" title="suicide_go" alt="" coords="353,181,438,207"/>
+<area shape="rect" id="node4" href="$db/d2a/go_8c.html#a634a03028ba512387aae19012c424818" title="engine_go" alt="" coords="768,57,851,83"/>
+<area shape="rect" id="node7" href="$db/d2a/go_8c.html#a5e615416377c6eccb3f3bb611336dce7" title="legal_go" alt="" coords="486,107,558,132"/>
+<area shape="rect" id="node9" href="$db/d2a/go_8c.html#aef3d780fb37b0f0a08f1eb90a807247a" title="self_go" alt="" coords="777,107,842,132"/>
+<area shape="rect" id="node10" href="$db/d2a/go_8c.html#a88ad2f96f9ea8092406bcb8f1873e92d" title="test_go" alt="" coords="630,5,695,31"/>
+<area shape="rect" id="node5" href="$db/d2a/go_8c.html#acbc5b7a174f506f13ab6d0fca1faa102" title="run_go" alt="" coords="899,57,962,83"/>
+<area shape="rect" id="node6" href="$dd/df8/darknet_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1010,57,1061,83"/>
+<area shape="rect" id="node8" href="$db/d2a/go_8c.html#a9307b0658d55b7b789b8386553d83336" title="generate_move" alt="" coords="606,107,720,132"/>
+</map>

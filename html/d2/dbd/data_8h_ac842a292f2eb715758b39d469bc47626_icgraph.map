@@ -1,0 +1,7 @@
+<map id="get_random_batch" name="get_random_batch">
+<area shape="rect" id="node2" href="$d9/d94/network_8h.html#a8b54b8e2d0a90c40d03b84d67503e279" title="train_network_sgd" alt="" coords="186,31,316,56"/>
+<area shape="rect" id="node3" href="$da/d91/cifar_8c.html#a2bbe2cb4f41dbb42ce2f808f7c173138" title="train_cifar" alt="" coords="383,5,463,31"/>
+<area shape="rect" id="node6" href="$da/d91/cifar_8c.html#a05c4dceae0b08fbc5e9be8dec9da81a4" title="train_cifar_distill" alt="" coords="364,55,481,80"/>
+<area shape="rect" id="node4" href="$dd/df8/darknet_8c.html#a964d88fc4dfa875f6de21066f7171d11" title="run_cifar" alt="" coords="529,31,602,56"/>
+<area shape="rect" id="node5" href="$dd/df8/darknet_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="650,31,701,56"/>
+</map>

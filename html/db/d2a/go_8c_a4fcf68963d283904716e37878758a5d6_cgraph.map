@@ -1,0 +1,5 @@
+<map id="move_go" name="move_go">
+<area shape="rect" id="node2" href="$db/d2a/go_8c.html#a0325b17ac24c70c48cc3d31942ca8d82" title="calculate_liberties" alt="" coords="133,5,261,31"/>
+<area shape="rect" id="node4" href="$db/d2a/go_8c.html#a6dc1ee84d43a5f685069206988bbddcc" title="remove_connected" alt="" coords="130,55,264,80"/>
+<area shape="rect" id="node3" href="$db/d2a/go_8c.html#a4815ef06123df68153376568ad5dad2b" title="propagate_liberty" alt="" coords="312,5,437,31"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="load_network" name="load_network">
+<area shape="rect" id="node2" href="$dd/df8/darknet_8c.html#a4776cfe55bb021aae488942b3e144de9" title="mkimg" alt="" coords="309,5,370,31"/>
+<area shape="rect" id="node4" href="$d2/da6/lsd_8c.html#a2ae443574ec61dc746fa85f65d6d1cf2" title="train_colorizer" alt="" coords="154,43,259,68"/>
+<area shape="rect" id="node6" href="$d2/da6/lsd_8c.html#a13f25021852f255bb81359944d2e1a24" title="train_dcgan" alt="" coords="161,92,252,117"/>
+<area shape="rect" id="node7" href="$db/d2a/go_8c.html#a1bee8a9fcda465fdc3b9cf57b7646f7d" title="train_go" alt="" coords="172,141,241,167"/>
+<area shape="rect" id="node3" href="$dd/df8/darknet_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="420,68,470,93"/>
+<area shape="rect" id="node5" href="$d2/da6/lsd_8c.html#ab48437873371bf1e3ff2b7714109f178" title="run_lsd" alt="" coords="307,68,372,93"/>
+<area shape="rect" id="node8" href="$db/d2a/go_8c.html#acbc5b7a174f506f13ab6d0fca1faa102" title="run_go" alt="" coords="308,129,371,155"/>
+</map>

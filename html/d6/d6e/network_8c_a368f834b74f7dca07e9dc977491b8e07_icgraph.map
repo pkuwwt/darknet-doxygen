@@ -1,0 +1,9 @@
+<map id="network_accuracies" name="network_accuracies">
+<area shape="rect" id="node2" href="$da/d91/cifar_8c.html#a957192525193e2b1c2e49623efbf886b" title="test_cifar" alt="" coords="235,5,310,31"/>
+<area shape="rect" id="node5" href="$d0/db9/classifier_8c.html#a636dccf9308a3ae0dbd8660f29db4e02" title="validate_classifier_crop" alt="" coords="192,55,352,80"/>
+<area shape="rect" id="node7" href="$d1/dec/dice_8c.html#add6c91a254e39be48437b1f029bd5599" title="validate_dice" alt="" coords="223,104,322,129"/>
+<area shape="rect" id="node3" href="$dd/df8/darknet_8c.html#a964d88fc4dfa875f6de21066f7171d11" title="run_cifar" alt="" coords="414,5,487,31"/>
+<area shape="rect" id="node4" href="$dd/df8/darknet_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="548,55,599,80"/>
+<area shape="rect" id="node6" href="$dd/df8/darknet_8c.html#a08cb29ba2c4674431352eff4e6274b56" title="run_classifier" alt="" coords="400,55,500,80"/>
+<area shape="rect" id="node8" href="$d1/dec/dice_8c.html#a08655daec67d2702a462675941bab3e2" title="run_dice" alt="" coords="414,104,487,129"/>
+</map>

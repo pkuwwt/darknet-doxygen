@@ -1,0 +1,5 @@
+<map id="composite_image" name="composite_image">
+<area shape="rect" id="node2" href="$d3/d10/image_8c.html#ab2ddb4ea0bc935f26ce71a731a3241d9" title="get_pixel" alt="" coords="349,5,424,31"/>
+<area shape="rect" id="node3" href="$d3/d10/image_8c.html#afb5311c1f76ab7e8f37ecf36109df851" title="get_pixel_extend" alt="" coords="179,31,301,56"/>
+<area shape="rect" id="node4" href="$d3/d10/image_8c.html#a566c2d016eb920d2fee7d3bb055a720b" title="set_pixel" alt="" coords="203,80,277,105"/>
+</map>

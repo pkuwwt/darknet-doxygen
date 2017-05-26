@@ -1,0 +1,34 @@
+<map id="train_network" name="train_network">
+<area shape="rect" id="node2" href="$d4/d8c/captcha_8c.html#aec7b557b2068b30c22b46051b5057769" title="train_captcha" alt="" coords="160,5,261,31"/>
+<area shape="rect" id="node5" href="$d0/db9/classifier_8c.html#ad875e8ecf86a386ce16c7142484f3efb" title="train_classifier" alt="" coords="157,55,263,80"/>
+<area shape="rect" id="node7" href="$d9/d90/coco_8c.html#a7d54248e7cab4c15d780458837482861" title="train_coco" alt="" coords="169,104,252,129"/>
+<area shape="rect" id="node9" href="$d2/da6/lsd_8c.html#a2ae443574ec61dc746fa85f65d6d1cf2" title="train_colorizer" alt="" coords="158,153,263,179"/>
+<area shape="rect" id="node11" href="$de/da9/compare_8c.html#aa03abf85168fca74fa66b2545bb99131" title="train_compare" alt="" coords="157,252,263,277"/>
+<area shape="rect" id="node13" href="$d2/da6/lsd_8c.html#a13f25021852f255bb81359944d2e1a24" title="train_dcgan" alt="" coords="165,203,256,228"/>
+<area shape="rect" id="node14" href="$df/d09/detector_8c.html#ae007089ceccb49a69ffa696a4f8dd78a" title="train_detector" alt="" coords="159,301,262,327"/>
+<area shape="rect" id="node16" href="$d1/dec/dice_8c.html#a04b2dfd657ae57be34fa7ff0e06bb7fa" title="train_dice" alt="" coords="171,351,250,376"/>
+<area shape="rect" id="node18" href="$db/d2a/go_8c.html#a1bee8a9fcda465fdc3b9cf57b7646f7d" title="train_go" alt="" coords="175,400,245,425"/>
+<area shape="rect" id="node20" href="$dd/d39/regressor_8c.html#aa4426c2ef23d84bceb3b5a0e6465ad25" title="train_regressor" alt="" coords="155,449,266,475"/>
+<area shape="rect" id="node22" href="$d2/d1d/super_8c.html#a829e8c650629ba5cbe0e571012a38f26" title="train_super" alt="" coords="166,499,254,524"/>
+<area shape="rect" id="node24" href="$d8/dcf/swag_8c.html#a60f6680a00a1ed3d121f270f07a52cc2" title="train_swag" alt="" coords="167,548,253,573"/>
+<area shape="rect" id="node26" href="$d4/db3/tag_8c.html#aeefca056f550be8ea19fd77fe8030840" title="train_tag" alt="" coords="174,597,247,623"/>
+<area shape="rect" id="node28" href="$da/d6c/voxel_8c.html#abceb32ae3a2bd82936251ccd0261a337" title="train_voxel" alt="" coords="167,647,253,672"/>
+<area shape="rect" id="node30" href="$da/d32/writing_8c.html#aeb2dc69d7f9c6a34bc5dd57890373f9f" title="train_writing" alt="" coords="164,696,257,721"/>
+<area shape="rect" id="node32" href="$d5/d37/yolo_8c.html#a9ecf779a5ff54201713a5fae5265cbe8" title="train_yolo" alt="" coords="171,745,250,771"/>
+<area shape="rect" id="node3" href="$dd/df8/darknet_8c.html#add5178ee1c90068a3229f6ee5349dfcc" title="run_captcha" alt="" coords="319,12,413,37"/>
+<area shape="rect" id="node4" href="$dd/df8/darknet_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="466,376,516,401"/>
+<area shape="rect" id="node6" href="$dd/df8/darknet_8c.html#a08cb29ba2c4674431352eff4e6274b56" title="run_classifier" alt="" coords="316,68,416,93"/>
+<area shape="rect" id="node8" href="$dd/df8/darknet_8c.html#a9a2e98f86cd2b185650f4ec039d38b03" title="run_coco" alt="" coords="328,129,404,155"/>
+<area shape="rect" id="node10" href="$d2/da6/lsd_8c.html#ab48437873371bf1e3ff2b7714109f178" title="run_lsd" alt="" coords="333,203,398,228"/>
+<area shape="rect" id="node12" href="$dd/df8/darknet_8c.html#adad6db98a4c5c1342319cd731b5654c7" title="run_compare" alt="" coords="316,252,416,277"/>
+<area shape="rect" id="node15" href="$df/d09/detector_8c.html#a677c1747fd7a58c7f7da3314af5d6120" title="run_detector" alt="" coords="318,301,414,327"/>
+<area shape="rect" id="node17" href="$d1/dec/dice_8c.html#a08655daec67d2702a462675941bab3e2" title="run_dice" alt="" coords="330,351,402,376"/>
+<area shape="rect" id="node19" href="$db/d2a/go_8c.html#acbc5b7a174f506f13ab6d0fca1faa102" title="run_go" alt="" coords="334,400,397,425"/>
+<area shape="rect" id="node21" href="$dd/d39/regressor_8c.html#aa80afdae21d8e85cfa1ead4aea5e4467" title="run_regressor" alt="" coords="314,449,418,475"/>
+<area shape="rect" id="node23" href="$d2/d1d/super_8c.html#a4bc1230a2d77e86644c4719157fc69cc" title="run_super" alt="" coords="325,499,407,524"/>
+<area shape="rect" id="node25" href="$d8/dcf/swag_8c.html#af6e97f88090ca563fe745d32958a1452" title="run_swag" alt="" coords="326,548,405,573"/>
+<area shape="rect" id="node27" href="$d4/db3/tag_8c.html#a695072073d4da637e4728d2527422292" title="run_tag" alt="" coords="333,597,399,623"/>
+<area shape="rect" id="node29" href="$da/d6c/voxel_8c.html#a2d502a871e36992b74083d7f81377d9b" title="run_voxel" alt="" coords="326,647,405,672"/>
+<area shape="rect" id="node31" href="$da/d32/writing_8c.html#a95a0514071cfac42ef963ccead9acb49" title="run_writing" alt="" coords="323,696,409,721"/>
+<area shape="rect" id="node33" href="$d5/d37/yolo_8c.html#ae2af4814947b728e7cfafec8c446050e" title="run_yolo" alt="" coords="330,745,402,771"/>
+</map>

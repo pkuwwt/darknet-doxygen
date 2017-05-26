@@ -1,0 +1,8 @@
+<map id="diou" name="diou">
+<area shape="rect" id="node2" href="$d2/dd1/box_8c.html#a306e7943e82df234b6f9d9c70def621c" title="box_intersection" alt="" coords="231,26,349,51"/>
+<area shape="rect" id="node4" href="$d2/dd1/box_8c.html#a6f5e94eb9c925d29647fd649799b8066" title="box_union" alt="" coords="100,26,183,51"/>
+<area shape="rect" id="node5" href="$d2/dd1/box_8c.html#ad94a4ec073b2f6ee903fb0b5ab454cb9" title="dintersect" alt="" coords="250,76,330,102"/>
+<area shape="rect" id="node7" href="$d2/dd1/box_8c.html#ac771494b82a6acf3d931e2036f78f1a1" title="dunion" alt="" coords="111,127,172,152"/>
+<area shape="rect" id="node3" href="$d2/dd1/box_8c.html#a49bbaf2c74dad0f7bbca22c9e41286ca" title="overlap" alt="" coords="404,27,469,52"/>
+<area shape="rect" id="node6" href="$d2/dd1/box_8c.html#a0a70286448dcb4dfca4ead3539e48a87" title="derivative" alt="" coords="397,76,476,102"/>
+</map>

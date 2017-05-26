@@ -1,0 +1,7 @@
+<map id="crop_image" name="crop_image">
+<area shape="rect" id="node2" href="$d3/d91/utils_8c.html#a5402a85f04198ed74b0ac1172b673a14" title="constrain_int" alt="" coords="145,5,242,31"/>
+<area shape="rect" id="node3" href="$d3/d10/image_8c.html#ab2ddb4ea0bc935f26ce71a731a3241d9" title="get_pixel" alt="" coords="156,55,231,80"/>
+<area shape="rect" id="node4" href="$d3/d10/image_8c.html#a726c30d7f0779c46f9ba5b8a3c2f94a1" title="make_image" alt="" coords="144,104,242,129"/>
+<area shape="rect" id="node6" href="$d3/d10/image_8c.html#a566c2d016eb920d2fee7d3bb055a720b" title="set_pixel" alt="" coords="156,153,230,179"/>
+<area shape="rect" id="node5" href="$d3/d10/image_8c.html#a28bb9f835989b2f7e908386421c52837" title="make_empty_image" alt="" coords="290,104,431,129"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="fgetgo" name="fgetgo">
+<area shape="rect" id="node2" href="$db/d2a/go_8c.html#af3527c2afe543ad88276f7ab0ca580b9" title="load_go_moves" alt="" coords="112,31,227,56"/>
+<area shape="rect" id="node3" href="$db/d2a/go_8c.html#a1bee8a9fcda465fdc3b9cf57b7646f7d" title="train_go" alt="" coords="276,5,345,31"/>
+<area shape="rect" id="node6" href="$db/d2a/go_8c.html#ae3949a68287cfeb7a1c35abfca445142" title="valid_go" alt="" coords="275,55,346,80"/>
+<area shape="rect" id="node4" href="$db/d2a/go_8c.html#acbc5b7a174f506f13ab6d0fca1faa102" title="run_go" alt="" coords="394,31,457,56"/>
+<area shape="rect" id="node5" href="$dd/df8/darknet_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="505,31,555,56"/>
+</map>

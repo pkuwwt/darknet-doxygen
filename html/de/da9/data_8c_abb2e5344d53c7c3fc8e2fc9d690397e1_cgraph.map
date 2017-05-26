@@ -1,0 +1,8 @@
+<map id="fill_truth_swag" name="fill_truth_swag">
+<area shape="rect" id="node2" href="$de/da9/data_8c.html#a3730bfac0277a59f69188e4e3192012d" title="correct_boxes" alt="" coords="171,5,276,31"/>
+<area shape="rect" id="node4" href="$d3/d91/utils_8c.html#a1ba38c8a3123ae1289a73d9f70e17615" title="find_replace" alt="" coords="176,55,270,80"/>
+<area shape="rect" id="node5" href="$de/da9/data_8c.html#af2b38e075b074d21719d21aecb185793" title="randomize_boxes" alt="" coords="160,104,286,129"/>
+<area shape="rect" id="node6" href="$de/da9/data_8c.html#a4374d1f158c54ea10bc69d983a765379" title="read_boxes" alt="" coords="178,153,269,179"/>
+<area shape="rect" id="node3" href="$d3/d91/utils_8c.html#acdd3cf194fe55404d95585fcf50a1b4c" title="constrain" alt="" coords="334,5,410,31"/>
+<area shape="rect" id="node7" href="$d3/d91/utils_8c.html#aecaee51f837bcfd8316ab68164620819" title="file_error" alt="" coords="335,153,409,179"/>
+</map>

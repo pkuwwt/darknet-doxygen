@@ -1,0 +1,10 @@
+<map id="backward_batchnorm_layer" name="backward_batchnorm_layer">
+<area shape="rect" id="node2" href="$d8/de4/convolutional__layer_8c.html#a3fe122b5a5807135e39655276f708d98" title="backward_bias" alt="" coords="220,5,330,31"/>
+<area shape="rect" id="node4" href="$d9/d8a/batchnorm__layer_8c.html#ad294f39c089d9017cbf8614bc584409d" title="backward_scale_cpu" alt="" coords="202,55,348,80"/>
+<area shape="rect" id="node5" href="$dc/d50/blas_8c.html#a22f6b03dd54e2d4b249e53a0ca14434c" title="copy_cpu" alt="" coords="236,104,314,129"/>
+<area shape="rect" id="node6" href="$d9/d8a/batchnorm__layer_8c.html#a87f9e84fdeb71dfa36fcd5fc6a65f4fb" title="mean_delta_cpu" alt="" coords="215,153,335,179"/>
+<area shape="rect" id="node7" href="$d9/d8a/batchnorm__layer_8c.html#a85baa02a320f2f8e6939d775c38b357c" title="normalize_delta_cpu" alt="" coords="203,203,347,228"/>
+<area shape="rect" id="node8" href="$d8/df1/blas_8h.html#ad2afef6b2dde26f2a1098e42f8b48e8f" title="scale_bias" alt="" coords="233,252,317,277"/>
+<area shape="rect" id="node9" href="$d9/d8a/batchnorm__layer_8c.html#a5468ae76e1f7a1cfa35cf3c974d2ef8a" title="variance_delta_cpu" alt="" coords="207,301,344,327"/>
+<area shape="rect" id="node3" href="$d3/d91/utils_8c.html#abedfeccc4fae6ebb143af6a646658b35" title="sum_array" alt="" coords="396,5,480,31"/>
+</map>

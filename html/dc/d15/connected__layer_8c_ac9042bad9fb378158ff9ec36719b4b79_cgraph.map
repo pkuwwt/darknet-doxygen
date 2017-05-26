@@ -1,0 +1,8 @@
+<map id="statistics_connected_layer" name="statistics_connected_layer">
+<area shape="rect" id="node2" href="$d8/df1/blas_8h.html#ac83fbd0b7a61cefc93f82a5867f837b4" title="constrain_ongpu" alt="" coords="195,5,315,31"/>
+<area shape="rect" id="node3" href="$d3/d91/utils_8c.html#ae211f70582950d61802e8ebc3ae0b665" title="print_statistics" alt="" coords="202,55,308,80"/>
+<area shape="rect" id="node4" href="$d3/d91/utils_8c.html#a2098fae653a82f4bcc9c339229663285" title="mean_array" alt="" coords="520,29,613,55"/>
+<area shape="rect" id="node6" href="$d3/d91/utils_8c.html#acb8ffd5403deb84ad16360ab0bf87cfa" title="variance_array" alt="" coords="363,55,472,80"/>
+<area shape="rect" id="node7" href="$d3/d91/utils_8c.html#aedf2898bb8258edd5db8da5f934a709e" title="mse_array" alt="" coords="375,104,460,129"/>
+<area shape="rect" id="node5" href="$d3/d91/utils_8c.html#abedfeccc4fae6ebb143af6a646658b35" title="sum_array" alt="" coords="661,29,745,55"/>
+</map>

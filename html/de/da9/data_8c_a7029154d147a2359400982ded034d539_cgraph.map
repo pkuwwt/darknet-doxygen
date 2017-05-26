@@ -1,0 +1,6 @@
+<map id="load_cifar10_data" name="load_cifar10_data">
+<area shape="rect" id="node2" href="$d3/d91/utils_8c.html#aecaee51f837bcfd8316ab68164620819" title="file_error" alt="" coords="204,5,278,31"/>
+<area shape="rect" id="node3" href="$dc/dca/matrix_8c.html#a47438b60c4cf871ff2523161d8a26eef" title="make_matrix" alt="" coords="193,55,290,80"/>
+<area shape="rect" id="node4" href="$de/da9/data_8c.html#acbb4f5fcc08c77620c177ea1b0cfc667" title="scale_data_rows" alt="" coords="181,104,302,129"/>
+<area shape="rect" id="node5" href="$d3/d91/utils_8c.html#a8fb2bfbc3ce8319adacd60978267cbb7" title="scale_array" alt="" coords="350,104,440,129"/>
+</map>

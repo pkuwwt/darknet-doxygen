@@ -1,0 +1,4 @@
+<map id="make_avgpool_layer" name="make_avgpool_layer">
+<area shape="rect" id="node2" href="$d3/db0/avgpool__layer_8c.html#a08eb5fae5bf3a51b3d1b6c84974acd36" title="backward_avgpool_layer" alt="" coords="198,5,367,31"/>
+<area shape="rect" id="node3" href="$d3/db0/avgpool__layer_8c.html#abacd82eb3f6c169bac2d6f9ce591fbe3" title="forward_avgpool_layer" alt="" coords="204,55,360,80"/>
+</map>

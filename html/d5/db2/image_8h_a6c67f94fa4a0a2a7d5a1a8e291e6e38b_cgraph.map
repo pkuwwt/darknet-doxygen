@@ -1,0 +1,6 @@
+<map id="place_image" name="place_image">
+<area shape="rect" id="node2" href="$d3/d10/image_8c.html#a042cf66bb9669d6ca59dcedf2461fc74" title="bilinear_interpolate" alt="" coords="150,5,284,31"/>
+<area shape="rect" id="node5" href="$d3/d10/image_8c.html#a566c2d016eb920d2fee7d3bb055a720b" title="set_pixel" alt="" coords="180,55,254,80"/>
+<area shape="rect" id="node3" href="$d3/d10/image_8c.html#afb5311c1f76ab7e8f37ecf36109df851" title="get_pixel_extend" alt="" coords="332,5,454,31"/>
+<area shape="rect" id="node4" href="$d3/d10/image_8c.html#ab2ddb4ea0bc935f26ce71a731a3241d9" title="get_pixel" alt="" coords="502,5,577,31"/>
+</map>

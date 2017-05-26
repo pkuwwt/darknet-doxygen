@@ -1,0 +1,6 @@
+<map id="demo" name="demo">
+<area shape="rect" id="node2" href="$dd/df8/darknet_8c.html#a9a2e98f86cd2b185650f4ec039d38b03" title="run_coco" alt="" coords="118,5,194,31"/>
+<area shape="rect" id="node4" href="$df/d09/detector_8c.html#a677c1747fd7a58c7f7da3314af5d6120" title="run_detector" alt="" coords="108,55,204,80"/>
+<area shape="rect" id="node5" href="$d5/d37/yolo_8c.html#ae2af4814947b728e7cfafec8c446050e" title="run_yolo" alt="" coords="120,104,192,129"/>
+<area shape="rect" id="node3" href="$dd/df8/darknet_8c.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="252,55,302,80"/>
+</map>
